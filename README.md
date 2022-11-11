@@ -9,7 +9,7 @@
 
 - 📄 I code mainly in **vb.net and python.**
 
-- 📫 How to contact me **idefasoft@gmail.com**
+- 📫 How to contact me : **idefasoft@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +20,6 @@
 <a href="https://discord.gg/QeZGNhdSbP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QeZGNhdSbP" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idefasoft&show_icons=true&locale=fr&layout=compact" alt="idefasoft" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idefasoft&show_icons=true&locale=fr&layout=compact&theme=dark" alt="idefasoft" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idefasoft&show_icons=true&locale=fr" alt="idefasoft" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idefasoft&show_icons=true&locale=fr&theme=dark" alt="idefasoft" /></p>
