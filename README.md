@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idefasoft&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="idefasoft" /> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://idefasoft.github.io/](https://idefasoft.github.io/)
 
